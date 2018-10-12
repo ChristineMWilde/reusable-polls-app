@@ -2,7 +2,7 @@
 Polls
 =====
  
-Polls is a reusable voting app for Django which can be used in conjunction with the threads (forum) app
+Polls is a reusable voting app for Django which can be used in conjunction with the threads (forum) app found here under the [threads app](https://github.com/ChristineMWilde/reusable-threads-app.git)
  
 Detailed documentation is in the "ProjectDocumentation" directory.
  
